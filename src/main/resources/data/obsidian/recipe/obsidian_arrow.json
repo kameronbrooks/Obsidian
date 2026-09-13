@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": { "item": "obsidian:obsidian_shard" },
+    "#": { "item": "minecraft:stick" },
+    "F": { "item": "minecraft:feather" }
+  },
+  "pattern": [ "S", "#", "F" ],
+  "result": { "id": "obsidian:obsidian_arrow", "count": 4 }
+}
