@@ -77,7 +77,13 @@ Key versions (see `gradle.properties`): NeoForge `21.1.250`, Minecraft `1.21.1`,
 
 ## Textures
 
-The item and arrow textures are simple generated placeholders in the obsidian palette
-(dark purple with speckle and highlights). Drop your own 16×16 PNGs into
+The tool, sword, and arrow textures are the vanilla **netherite** textures recolored to an
+obsidian palette (deep purple/violet metal, wooden handles kept), and the shard is a custom sharp,
+glassy obsidian chip based on the flint silhouette. To swap in your own art, drop 16×16 PNGs into
 `src/main/resources/assets/obsidian/textures/item/` (and the 32×32 arrow entity texture into
-`textures/entity/`) to replace them.
+`textures/entity/`).
+
+## License
+
+Released under the [MIT License](LICENSE) — free to use, modify, and redistribute (including in
+modpacks), with attribution. See the `LICENSE` file for the full text.
